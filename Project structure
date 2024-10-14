@@ -1,0 +1,18 @@
+config/(folder)
+auth.php
+db.php
+public/(folder)
+account_details.html
+add_book.html
+borrow_book.html
+css/ (folder)
+ style.css
+dashboard.html
+images/(folder)
+index.html
+login.html
+logout.php
+process_login.php
+register.html
+return book.php
+setup.php
